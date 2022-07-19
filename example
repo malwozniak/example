@@ -1,0 +1,17 @@
+[
+  {
+    "id": 123453456,
+    "imgUrl": "",
+    "name": "Image 1"
+     },
+  {
+    "id": 098765554,
+    "imgUrl": "",
+    "name": "Image 2"},
+  {
+    "id": 567890123,
+    "imgUrl": "",
+    "name": "Image 3"
+    
+  }
+]
